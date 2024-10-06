@@ -1,4 +1,2 @@
-
-# calico
-quay.io/calico/cni
-quay.io/calico/node
+#  k8s metric server
+k8s.gcr.io/metrics-server/metrics-server:v0.4.1
